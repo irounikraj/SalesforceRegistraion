@@ -76,6 +76,11 @@ public class RegistrationSteps {
 		// Write code here that turns the phrase above into concrete actions
 		throw new io.cucumber.java.PendingException();
 	}
+	@Then("close  the page")
+	public void close_the_page() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new io.cucumber.java.PendingException();
+	}
 
 	
 
